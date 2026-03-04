@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+
+}
+header {
+   
+    background-color: #3f51b5;
+    text-align: center;
+    /* margin-top: -20px; */
+    padding:10px
+}
+
+#name {
+    /* border-width: 1px solid black; */
+   color: red;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+section{
+    padding: 40px 20px ;
+    max-width: 800px;
+    margin: auto;
+}
+
+#profile{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    
+}
+
+.qualifications{
+    background-color: #c6d708;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 20px;
+    box-shadow:0 6px 8px  rgb(89, 50, 79);
+}
+
+.experiences{
+    margin-top:30px;
+    background-color: rgb(2, 53, 25);
+    border-radius: 10px;
+    color: white;
+    padding: 10px 20px;
+    box-shadow:0 6px 8px  rgb(89, 50, 79);
+}
+.hobbies{
+    margin-top:30px;
+    background-color: rgb(90, 3, 65);
+    border-radius: 10px;
+    color: white;
+    padding: 10px 20px;
+    box-shadow:0 6px 8px  rgb(89, 50, 79);
+}
+.personalDetails{
+    margin-top:30px;
+    background-color: rgb(80, 42, 2);
+    border-radius: 10px;
+    color: white;
+    padding: 10px 20px;
+    box-shadow:0 6px 8px  rgb(89, 50, 79);
+}
+
+}
+
+h2{
+color: #9288ec
+}
+
+p{
+    font-size: 18px;
+}
+footer{
+    background-color: #303f9f;
+    padding: 10px;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 20px;
+}
+
+a{
+    color: aqua;
+    margin: 20px 10px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: cursive;
+}
+a:hover{
+    color: rgb(75, 3, 3);
+}
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #f20cf2;
+  font-size: 20px;
+  background: #229bb3;
+  padding: 15px 30px 15px 29px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfc79;
+  text-decoration: none;
+}
+
+.project{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0, 6px, 8px rgb(3, 3, 3);
+}
